@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "109163523055",
+    "project_id": "health-monitor-system-c581d",
+    "storage_bucket": "health-monitor-system-c581d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109163523055:android:bdc1fd8bbd4340e151e41a",
+        "android_client_info": {
+          "package_name": "com.example.health_monitor_system_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109163523055-iiaairkorkf42i25oprfrg0tck3mrnmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUy9CWgv6cztxnm6iOp_Z3jIxVBLkwMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109163523055-iiaairkorkf42i25oprfrg0tck3mrnmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109163523055-g26elukfks2c2o24gr2cg8ekph0l8gl1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthMonitorSystem1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
